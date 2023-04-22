@@ -22,8 +22,8 @@ footer{
 
 [epub|type~="z3998:song"] p > span{
 	display: block;
-	text-indent: -1em;
 	padding-left: 1em;
+	text-indent: -1em;
 }
 
 [epub|type~="z3998:song"] p > span + br{
@@ -31,11 +31,33 @@ footer{
 }
 /* end of poem/verse/song */
 
-#dedication {
+#dedication{
 	margin-top: 20vh;
 }
 
-#dedication header {
+#dedication header{
 	text-align: center;
 	text-indent: 0;
+}
+
+/* broadsheet */
+#chapter-2 blockquote{
+	border: 2px solid;
+	font-size: 1.5em;
+	font-variant: all-small-caps;
+	padding: 1em;
+	text-align: center;
+	text-indent: 0;
+	width: 7em;
+}
+
+/* outer blockquote, kept at normal margins since it’s the entire chapter */
+#chapter-11 blockquote[epub|type~="z3998:letter"]{
+	margin-left: 0;
+	margin-right: 0;
+}
+
+/* telegrams */
+#chapter-11 li > blockquote{
+	font-variant: all-small-caps;
 }
