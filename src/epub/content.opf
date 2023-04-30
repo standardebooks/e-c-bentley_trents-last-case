@@ -36,9 +36,10 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A journalist investigates the murder of a Wall Street kingpin.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;When the Wall Street giant Sigsbee Manderson is found dead, the local newspaper sends in Philip Trent, its favorite contract journalist/amateur detective, to investigate and report on the case. Trent encounters a paucity of facts on the ground, but the ones he does find leads him to a conclusion he’s unsure of how to handle.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.com/ebooks/e-c-bentley"&gt;E. C. Bentley&lt;/a&gt; was a close friend of &lt;a href="https://standardebooks.com/ebooks/g-k-chesterton"&gt;G. K. Chesterton&lt;/a&gt;, to whom he dedicated this book (in response to Chesterton’s dedicating &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/g-k-chesterton/the-man-who-was-thursday"&gt;The Man Who Was Thursday&lt;/a&gt;&lt;/i&gt; to him). The book is said to have been one of the first “modern” mysteries, and included &lt;a href="https://standardebooks.com/ebooks/dorothy-l-sayers"&gt;Dorothy Sayers&lt;/a&gt; and &lt;a href="https://standardebooks.com/ebooks/agatha-christie"&gt;Agatha Christie&lt;/a&gt; among its fans.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2568</dc:source>
