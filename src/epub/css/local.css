@@ -57,6 +57,12 @@ footer{
 	margin-right: 0;
 }
 
+/* inner blockquote (“dispatch”), dateline */
+#chapter-11 blockquote > blockquote > p:first-child{
+	font-style: italic;
+	text-align: right;
+}
+
 /* telegrams */
 #chapter-11 li > blockquote{
 	font-variant: all-small-caps;
