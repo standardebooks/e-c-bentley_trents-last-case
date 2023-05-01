@@ -39,7 +39,7 @@
 		<dc:description id="description">A journalist investigates the murder of a Wall Street kingpin.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;When the Wall Street giant Sigsbee Manderson is found dead, the local newspaper sends in Philip Trent, its favorite contract journalist/amateur detective, to investigate and report on the case. Trent encounters a paucity of facts on the ground, but the ones he does find leads him to a conclusion he’s unsure of how to handle.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.com/ebooks/e-c-bentley"&gt;E. C. Bentley&lt;/a&gt; was a close friend of &lt;a href="https://standardebooks.com/ebooks/g-k-chesterton"&gt;G. K. Chesterton&lt;/a&gt;, to whom he dedicated this book (in response to Chesterton’s dedicating &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/g-k-chesterton/the-man-who-was-thursday"&gt;The Man Who Was Thursday&lt;/a&gt;&lt;/i&gt; to him). The book is said to have been one of the first “modern” mysteries, and included &lt;a href="https://standardebooks.com/ebooks/dorothy-l-sayers"&gt;Dorothy Sayers&lt;/a&gt; and &lt;a href="https://standardebooks.com/ebooks/agatha-christie"&gt;Agatha Christie&lt;/a&gt; among its fans.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/e-c-bentley"&gt;E. C. Bentley&lt;/a&gt; was a close friend of &lt;a href="https://standardebooks.org/ebooks/g-k-chesterton"&gt;G. K. Chesterton&lt;/a&gt;, to whom he dedicated this book (in response to Chesterton’s dedicating &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/g-k-chesterton/the-man-who-was-thursday"&gt;The Man Who Was Thursday&lt;/a&gt;&lt;/i&gt; to him). The book is said to have been one of the first “modern” mysteries, and included &lt;a href="https://standardebooks.org/ebooks/dorothy-l-sayers"&gt;Dorothy Sayers&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/agatha-christie"&gt;Agatha Christie&lt;/a&gt; among its fans.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2568</dc:source>
@@ -54,10 +54,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/E._C._Bentley</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50007417</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Thomas Eakins</dc:contributor>
+		<meta property="file-as" refines="#artist">Eakins, Thomas</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Thomas Cowperthwait Eakins</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Thomas_Eakins</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n80061185</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Stuart E. Thiel</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Thiel, Stuart E.</meta>
