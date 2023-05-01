@@ -36,18 +36,17 @@ footer{
 }
 
 #dedication header{
-	text-align: center;
 	text-indent: 0;
 }
 
 /* broadsheet */
 #chapter-2 blockquote{
 	border: 2px solid;
-	font-size: 1.5em;
-	font-variant: all-small-caps;
+	font-size: 1.25em;
+	margin: 1em auto;
 	padding: 1em;
 	text-align: center;
-	text-indent: 0;
+	text-transform: uppercase;
 	width: 7em;
 }
 
