@@ -36,6 +36,8 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A journalist investigates the murder of a Wall Street kingpin.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;When the Wall Street giant Sigsbee Manderson is found dead, the local newspaper sends in Philip Trent, its favorite contract journalist/amateur detective, to investigate and report on the case. Trent encounters a paucity of facts on the ground, but the ones he does find leads him to a conclusion he’s unsure of how to handle.&lt;/p&gt;
