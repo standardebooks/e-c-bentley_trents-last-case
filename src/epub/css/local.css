@@ -42,7 +42,7 @@ footer{
 /* broadsheet */
 #chapter-2 blockquote{
 	border: 2px solid;
-	font-size: 1.25em;
+	font-size: larger;
 	margin: 1em auto;
 	padding: 1em;
 	text-align: center;
