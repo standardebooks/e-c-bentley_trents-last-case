@@ -62,7 +62,6 @@ footer{
 	text-align: right;
 }
 
-/* telegrams */
-#chapter-11 li > blockquote{
+.telegram{
 	font-variant: all-small-caps;
 }
